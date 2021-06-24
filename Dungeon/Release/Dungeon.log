@@ -1,0 +1,8 @@
+﻿  Dungeon.cpp
+C:\Users\sheil\Documents\CSE\job stuff\Dungeon\Dungeon\Dungeon.cpp(171,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  3 of 17 functions (17.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Dungeon.vcxproj -> C:\Users\sheil\Documents\CSE\job stuff\Dungeon\Release\Dungeon.exe
